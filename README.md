@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [GitHub Repository](https://github.com/SONALI-NEGI/huddle-landing-page-with-curved-sections-using-HTML-and-CSS.git)
-- Live Site URL: [GitHub page live URL]()
+- Live Site URL: [GitHub page live URL](https://sonali-negi.github.io/huddle-landing-page-with-curved-sections-using-HTML-and-CSS/)
 
 ## My process
 
