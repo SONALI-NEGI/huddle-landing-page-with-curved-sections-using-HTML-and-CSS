@@ -1,0 +1,142 @@
+@media all and (max-width:375px){
+    nav img{
+        height: 1.2rem;
+    }
+    nav button{
+        height: 1.5rem;
+        padding: 0 1rem 0 1rem;
+    }
+    /* HEADER */
+    header{
+        margin: 0 2rem 0 2rem;
+    }
+    .header-heading{
+      font-size: 1.7rem;
+      text-align: center;
+      margin-bottom: 0rem;
+    }
+    .header-p {
+        padding: 0.7rem;
+        font-size: 0.8rem;
+        font-weight: 500;
+        width: 80%;
+    }
+/* STATISTICS */
+    #statistics {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .stats{
+        margin-bottom: 2rem;
+    }
+
+    /* BG SECTION  */
+    .bg-section {
+        flex-direction: column-reverse;
+        padding: 2rem 0 2rem 0;
+    }
+    .section-img{
+       
+        width: 80%;
+        height: 200px;
+    }
+    
+    #grow-together{
+        width: 80%;
+        text-align: center;
+    }
+    #grow-together h1 {
+        font-size: 1.5rem;
+    }
+    #grow-together p {
+        font-size: 0.8rem;
+    }
+
+    /* SECTION-2 */
+    .section-2 {
+        margin: 3rem 0 3rem 0;
+        flex-direction: column;
+    }
+    .section-2-info {
+        width: 80%;
+        text-align: center;
+      }
+    .section-2-info h2 {
+        font-size: 1.3rem;
+    }
+    .section-2-info p {
+        font-size: 0.8rem;
+      }
+
+      /* SECTION-3  */
+      #Your-Users {
+        width: 80%;
+        text-align: center;
+      }
+      #Your-Users p {
+        font-size: 0.8rem;
+      }
+
+
+      /* SECTION-4 */
+.section-4 {
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+    justify-content: center;
+  }
+  .section-4 button {
+    font-size: 0.8rem;
+    justify-content: center;
+    width: 50%;
+    /* padding: 0; */
+padding:  0.5rem 1rem 0.5rem 1rem ;
+    margin-left:  6rem ;
+   
+  }
+
+
+  /* footer */
+  .section-5{
+    flex-direction: column-reverse;
+  }
+  .newsletter{
+    width: 100%;
+    margin: 1rem 0 1rem 0;
+}
+.newsletter p{
+    padding-right: 0rem;
+    font-size: 0.8rem;
+    font-weight: 400;
+    font-family: var(--font-family-Open-Sans);
+}
+.sub-input{
+    flex-direction: column;
+}
+.sub-input input{
+  margin-bottom: 0.5rem;
+}
+.sub-input button{
+margin-left: 9.7rem;
+}
+.hide{
+    display: none;
+   position: absolute;
+  padding: 0;
+  margin: 2.5rem 0 0 0;
+   left: 3rem;
+   width: 100%;
+  }
+
+  /* section-5 info */
+.section-5-info{
+    margin-top: 2rem;
+    width: 100%;
+}
+.section-5-info p{
+    font-size: 0.8rem;
+}
+.social-links{
+    padding: 0 0 3rem 3rem;
+}
+}

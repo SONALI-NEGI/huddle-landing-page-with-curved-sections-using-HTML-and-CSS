@@ -1,0 +1,54 @@
+@media all and (max-width: 775px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .header-heading {
+    font-size: 1.7rem;
+  }
+  .header-p{
+    width: 50%;
+  }
+  #grow-together {
+    width: 50%;
+  }
+  #grow-together h1{
+    font-size: 2rem;
+  }
+  #grow-together p{
+    font-size: 1rem;
+  }
+  #Your-Users {
+    width: 50%;
+  }
+  .section-4 button {
+    font-size: 1rem;
+      padding: 1rem;
+    width: 30%;
+   margin: 1rem 0rem 1rem 18rem;
+   
+  }
+  /* section-5 info */
+.section-5-info{
+    width: 30%;
+}
+.newsletter{
+    width: 35%;
+}
+.sub-input{
+    flex-direction: column;
+}
+
+.hide{
+   margin: 2.2rem;
+   right: 14rem;
+   width: 10%;
+  }
+.sub-input button{
+    margin: 0.5rem 0 0 7.2rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
+.social-links{
+    padding: 0 0 3rem 7rem;
+}
+}
